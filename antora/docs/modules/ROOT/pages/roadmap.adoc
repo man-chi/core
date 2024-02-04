@@ -1,9 +1,5 @@
 == Problem Statement
 
-.Metrics Model
-image::metrics-model.svg[]
-
-
 Statistics::
 The software industry is still in crisis.
 According to the Standish Group's CHAOS Report in 2018, only 29% of software projects were deemed successful, while 52% were considered over budget or delayed, and 19% were outright failures (abandoned or not used).<<2>>
