@@ -1,0 +1,15 @@
+= Kroki Template
+:toc:
+:icons: font
+
+== Mindmap Example Using plantuml
+[plantuml]
+....
+@startmindmap
++[#Orange] Colors
+++[#lightgreen] Green
+++[#FFBBCC] Rose
+--[#lightblue] Blue
+@endmindmap
+....
+

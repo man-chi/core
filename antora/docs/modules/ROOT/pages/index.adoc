@@ -1,0 +1,23 @@
+= Main Page
+:navtitle: Navigation Title
+:description: My description
+:author: my Name
+:email: email@sample.com
+:icons: font
+:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+:toc:
+
+{description}
+
+image::ccheart_black.png[My Image]
+
+== Template for the Read the Docs tutorial in AsciiDoc
+
+This GitHub template use Antora framework to generate site structure with examples using AsciiDoc markup and Kroki diagram
+
+== addition information for asciidoc, antora, :
+
+* https://asciidoc.org/ - a plain text markup language for writing technical content.
+* https://asciidoctor.org/ - text processor for parsing AsciiDoc format
+* https://antora.org/ - documentation site generator for asciidoctor
+* https://github.com/asciidoctor/asciidoctor-kroki - asciidoctor extension for Kroki (diagram as code)
