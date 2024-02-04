@@ -1,11 +1,11 @@
 site:
-  title: Antora Demo on ReadTheDocs
+  title: ReadTheDocs
   start_page: main::index.adoc
 content:
   sources:
 # uncomment the following lines for local file source
 # -   url: .
-  - url: https://github.com/man-chi/tutorial-template-antora.git
+  - url: https://github.com/man-chi/core.git
     start_paths:
     - antora/docs
     branches: HEAD
