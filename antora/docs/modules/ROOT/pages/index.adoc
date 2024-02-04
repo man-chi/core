@@ -1,15 +1,59 @@
-= Main Page
-:navtitle: Navigation Title
-:description: My description
-:author: Manchi L.
-:email: manchi@waxc.tech
-:icons: font
-:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
-:toc:
+= Body of Knowledge
+:navtitle: Body of Knowledge & Meta Model
+:description: Aligning each of the frameworks with relationship and purpose.
 
 {description}
 
-image::ccheart_black.png[My Image]
+.Management Framework (metamodel)
+image::bok.svg[]
 
-== new core site
+[%autowidth,cols="a,a,a"]
+|===
+|Book of Knowledge |Organization |Knowledge Area
+
+|Software Engineering (SWEBOK V4 Public Review)
+|IEEE (since 2004)
+| 17 KAs:
+
+. Requirement
+. Architecture
+. Design
+. Construction
+. Testing
+. Operations
+. Maintenance
+. Configuration Management
+. Management
+. Models and Methods
+. Process
+. Quality
+. Security
+. Economics
+. Professional Practice
+. Computing
+. Mathematics
+
+|Data Management (DAMA V2)
+|Data Management Association International since 1980
+| The DAMA Wheel:
+
+. Architecture
+. Modeling & Design
+. Data Storage & Operations
+. Security
+. Integration & Interoperability
+. Doc & Content Management
+. Master Data
+. Data Warehousing & BI
+. Metadata
+. Quality
+
+|Technology Operation
+| IT4IT
+| KAs:
+
+.
+|===
+
+
 

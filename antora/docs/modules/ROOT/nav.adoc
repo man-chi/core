@@ -1,6 +1,14 @@
-* xref:index.adoc[README]
-* xref::[section]
-** xref:section/kroki.adoc[Kroki Template]
+* xref:roadmap.adoc[Roadmap]
+* xref:definition.adoc[Definition]
+* xref:appendix/bibliography.adoc[Bibliography]
+* xref::[Dev Tools]
+** xref:devtools/git.adoc[Git]
+** xref:devtools/unix.adoc[Unix]
+* xref::[Docs as Code]
+** xref:docsascode/asciidoc.adoc[Asciidoc]
+** xref:docsascode/kroki.adoc[Kroki]
+** xref:docsascode/vega.adoc[Vega]
+** xref:docsascode/c4model.adoc[C4 Model]
 
 
 
