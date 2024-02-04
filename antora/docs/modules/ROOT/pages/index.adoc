@@ -4,6 +4,8 @@
 
 {description}
 
+image::architecture-v242.svg[]
+
 .Management Framework (metamodel)
 image::bok.svg[]
 

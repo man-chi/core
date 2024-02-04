@@ -2,16 +2,13 @@
 :navtitle: asciidoc
 :author: Manchi L.
 :email: manchi@waxc.tech
-:toc:
 :icons: font
-:source-highlighter: highlight.js
-:highlightjs-languages: kotlin, java, scala, javascript, typescript, python, julia, rust, shell, ruby
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
 
-== most frequently used syntax
+== Popular Syntax
 
 .Image caption
-image::migration.svg[I am the image alt text.]
+image::ccheart_black.png[I am the image alt text.]
 
 This is another paragraph.footnote:[I am footnote text and will be displayed at the bottom of the article.]
 
