@@ -1,5 +1,5 @@
 = Body of Knowledge
-:navtitle: Body of Knowledge & Meta Model
+:navtitle: Body of Knowledge
 :description: Aligning each of the frameworks with relationship and purpose.
 
 {description}
@@ -9,11 +9,11 @@ image::body-of-knowledge.svg[Metamodel]
 
 [%autowidth,cols="a,a,a"]
 |===
-|Book of Knowledge |Organization |Knowledge Area
+|Body of Knowledge |Organization |Knowledge Area
 
 |Software Engineering (SWEBOK V4 Public Review)
 |IEEE (since 2004)
-| 17 KAs:
+|
 
 . Requirement
 . Architecture
@@ -24,18 +24,17 @@ image::body-of-knowledge.svg[Metamodel]
 . Maintenance
 . Configuration Management
 . Management
-. Models and Methods
 . Process
+. Models and Methods
 . Quality
 . Security
-. Economics
 . Professional Practice
-. Computing
-. Mathematics
+. Economics
+. Foundation: Computing, Math, Eng
 
 |Data Management (DAMA V2)
 |Data Management Association International since 1980
-| The DAMA Wheel:
+| DAMA Wheel:
 
 . Architecture
 . Modeling & Design
@@ -43,16 +42,30 @@ image::body-of-knowledge.svg[Metamodel]
 . Security
 . Integration & Interoperability
 . Doc & Content Management
-. Master Data
+. Master Data Management
 . Data Warehousing & BI
 . Metadata
 . Quality
 
-|Technology Operation
+|Tech Operation
 | IT4IT
-| KAs:
+| 7 IT4IT Value Streams:
 
-.
+. Evaluate
+. Explore
+. Integrate
+. Deploy
+. Release
+. Consume
+. Operate
+
+Digital Product Life Cycle:
+
+. Strategy to Portfolio
+. Requirement to Deploy
+. Request to fulfill
+. Detect to Correct
+. Supporting
 |===
 
 

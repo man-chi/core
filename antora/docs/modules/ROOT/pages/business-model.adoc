@@ -16,6 +16,13 @@ closing the gaps between business strategy and pragmatic engineering practices
 
 == Problem Statement
 
+huge disription in past 5 years::
+- Asia political movement 2019
+- Covid pandemic 2020
+- china - us trade war 2021
+- ukrian - russian war 2022
+- LLM release by chatgpt 2023
+
 Statistics::
 The software industry is still in crisis.
 According to the Standish Group's CHAOS Report in 2018, only 29% of software projects were deemed successful, while 52% were considered over budget or delayed, and 19% were outright failures (abandoned or not used).<<2>>
@@ -129,3 +136,7 @@ Candidate Criteria::
 . culture fit
 . problem solving
 . conflict consensus
+
+
+Company Branding::
+link::https://paperheartdesign.com/blog/color-palette-terrific-teal[color theme]
