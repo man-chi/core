@@ -8,7 +8,7 @@
 == Popular Syntax
 
 .Image caption
-image::ccheart_black.png[I am the image alt text.]
+image::https://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png[I am the image alt text.[]
 
 This is another paragraph.footnote:[I am footnote text and will be displayed at the bottom of the article.]
 

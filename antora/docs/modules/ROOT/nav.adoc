@@ -1,6 +1,5 @@
 * xref:roadmap.adoc[Roadmap]
 * xref:definition.adoc[Definition]
-* xref:appendix/bibliography.adoc[Bibliography]
 * xref::[Dev Tools]
 ** xref:devtools/git.adoc[Git]
 ** xref:devtools/unix.adoc[Unix]

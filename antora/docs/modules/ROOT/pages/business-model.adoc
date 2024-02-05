@@ -1,8 +1,25 @@
+.Architecture
+image::architecture.svg[Architecture]
+
+
 == Problem Statement
+
+what company does?
+brief description of what your business does?
+
+== what type of services do you offer within your technology consulting business?
+
+provide technology consulting on the following 4 key areas: 1) design software architecture, 2) establish foundation data platform 3) practise responsible Machine learning operation , 4) govern cloud-native infrastructures
+
+== main business goals, do you have any other specific objectives you'd like to achieve with your website?
+closing the gaps between business strategy and pragmatic engineering practices
 
 Statistics::
 The software industry is still in crisis.
 According to the Standish Group's CHAOS Report in 2018, only 29% of software projects were deemed successful, while 52% were considered over budget or delayed, and 19% were outright failures (abandoned or not used).<<2>>
+
+Do you have any specific ideas or features you'd like to include on your website to help achieve this objective?
+
 
 Root Cause Analysis::
 . Intent: setup for failure: unclear or even confused on external force of stakeholders, outcome, strategy and business model, leading incorrect goal setting and KPI.

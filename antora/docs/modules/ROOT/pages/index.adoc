@@ -4,10 +4,8 @@
 
 {description}
 
-image::architecture-v242.svg[]
-
-.Management Framework (metamodel)
-image::bok.svg[]
+.Body of Knowledge Framework
+image::body-of-knowledge.svg[Metamodel]
 
 [%autowidth,cols="a,a,a"]
 |===
