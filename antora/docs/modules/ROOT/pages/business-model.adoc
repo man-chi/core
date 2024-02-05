@@ -1,18 +1,20 @@
 .Architecture
 image::architecture.svg[Architecture]
 
-
-== Problem Statement
-
-what company does?
-brief description of what your business does?
+brief description of what your business does?::
 
 == what type of services do you offer within your technology consulting business?
 
-provide technology consulting on the following 4 key areas: 1) design software architecture, 2) establish foundation data platform 3) practise responsible Machine learning operation , 4) govern cloud-native infrastructures
+.provide technology consulting on the following 4 key pillars::
+. analyze capability roadmap
+. design software engineering practices
+. establish foundation data platform with DataOps & MLOps
+. govern cloud-native infrastructures
 
 == main business goals, do you have any other specific objectives you'd like to achieve with your website?
 closing the gaps between business strategy and pragmatic engineering practices
+
+== Problem Statement
 
 Statistics::
 The software industry is still in crisis.

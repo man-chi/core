@@ -1,4 +1,4 @@
-* xref:roadmap.adoc[Roadmap]
+* xref:business-model.adoc[Business Model]
 * xref:definition.adoc[Definition]
 * xref::[Dev Tools]
 ** xref:devtools/git.adoc[Git]
