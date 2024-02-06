@@ -1,66 +1,49 @@
 = Definitions
 :navtitle: Definitions
 
-
-Based on definitions from IEEE
+== Based on definitions from IEEE
 https://pascal.computer.org/[SEVOCAB]
+https://zbib.org/[Bibliography Search]
 
 Context:: immediate environment in which a function (or set of functions in a diagram) operates
 
-Module:: module. (1) program unit that is discrete and identifiable with respect to compiling, combining with other units, and loading (ISO/IEC 19506:2012 Information technology -- Object Management Group Architecture-Driven Modernization (ADM) -- Knowledge Discovery Meta-Model (KDM), 4) (2) logically separable part of a program (ISO/IEC 19506:2012 Information technology -- Object Management Group Architecture-Driven Modernization (ADM) -- Knowledge Discovery Meta-Model (KDM), 4) (3) set of source code files under version control that can be manipulated together as one (ISO/IEC/IEEE 24765:2017 Systems and software engineering-Vocabulary) (4) collection of both data and the routines that act on it (ISO/IEC/IEEE 24765:2017 Systems and software engineering-Vocabulary) Note: The terms 'module', 'component,' and 'unit' are often used interchangeably or defined to be subelements of one another in different ways depending upon the context. The relationship of these terms is not yet standardized.
+Module:: module. (1) program unit that is discrete and identifiable with respect to compiling, combining with other units, and loading (ISO/IEC 19506:2012 Information technology -- Object Management Group Architecture-Driven Modernization (ADM) -- Knowledge Discovery Meta-Model (KDM), 4) (2) logically separable part of a program (ISO/IEC 19506:2012 Information technology -- Object Management Group Architecture-Driven Modernization (ADM) -- Knowledge Discovery Meta-Model (KDM), 4) (3) set of source code files under version control that can be manipulated together as one (ISO/IEC/IEEE 24765:2017 Systems and software engineering-Vocabulary) (4) collection of both data and the routines that act on it (ISO/IEC/IEEE 24765:2017 Systems and software engineering-Vocabulary) Note: The terms 'module', 'component,' and 'unit' are often used interchangeably or defined to be subelements of one another in different ways depending upon the context.
+The relationship of these terms is not yet standardized.
 
 Component::
 
-TIP: verification vs validation
-
-verification::
-
-validation::
-
 Faults vs failures
 
-analysis::
-identifying the current state and the desired future state, and then assessing the gap or differences between them, includes listing and prioritizing the specific actions or tasks required to close the gap.
-
 analysis vs analytics::
-analysis - examine the historical data and understand present
+analysis - examine the historical data, understand present and assess the gap or differences between them, includes listing and prioritizing the specific actions or tasks required to close the gap.
 analytics - try to predict future for decision making
 
 Modeling::
-    referring to mathematics equation or plot diagram. e.g. f(x) = 1/x
+referring to mathematics equation or plot diagram. e.g. f(x) = 1/x
 
 Simulation::
-    referring to executable runtime program, e.g. kotlin app.
+referring to executable runtime program, e.g. kotlin app.
 
 Role vs Responsibility::
 Role and responsibility are two interconnected concepts that define a person's position and obligations within a particular context
 
-Responsbility vs Accountability::
+Responsibility vs Accountability::
 Responsibility is task-oriented, while accountability is outcome-oriented.
 
 
 competency vs skill (based on ACM)::
-competency - know-what = a.k.a  knowledge area (K.A)
-skill - know-how
-disposition - know-why
+competency - know-what = a.k.a knowledge area (K.A) skill - know-how disposition - know-why
 
 == Convention
+
 Date Format::
 explicitly state the month and day using words rather than just numerals (e.g. "October 31, 2023" or Oct 31, 2023 --less formal).
 commonly put year after month, in english.
-put time after date, so remember "dateYeartime" DayTime
-Monday, June 22, 2023, 9:30 AM
-
-
+put time after date, so remember "dateYeartime" DayTime Monday, June 22, 2023, 9:30 AM
 
 == what is not
-programming != software engineering
-programming != design
-requirement != solution
-need != requirement
-quality assurance != testing
-solution = design
-solution != implemention
+
+programming != software engineering programming != design requirement != solution need != requirement quality assurance != testing solution = design solution != implemention
 
 MVP is problem solution fit but not yet product market fit
 
@@ -70,5 +53,4 @@ verification(internal spec) vs validation(external customer)
 
 incentive != reward != recognization
 
-https://zbib.org/[Bibliography Search]
 

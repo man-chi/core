@@ -1,7 +1,5 @@
 = AsciiDoc Template
 :navtitle: asciidoc
-:author: Manchi L.
-:email: manchi@waxc.tech
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
 
