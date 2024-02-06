@@ -1,4 +1,5 @@
-== git advance topics
+== Git Best Practices
+:navtitle: git best practices
 
 - branching strategy
 - pull request

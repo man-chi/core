@@ -1,13 +1,13 @@
-* xref:business-model.adoc[Business Model]
+* xref:biz-model.adoc[Business Model]
 * xref:definition.adoc[Definition]
 * xref::[Dev Tools]
 ** xref:devtools/git.adoc[Git]
 ** xref:devtools/unix.adoc[Unix]
-* xref::[Docs as Code]
-** xref:docsascode/asciidoc.adoc[Asciidoc]
-** xref:docsascode/kroki.adoc[Kroki]
-** xref:docsascode/vega.adoc[Vega]
-** xref:docsascode/c4model.adoc[C4 Model]
+* xref::[AsciiDoc Example]
+** xref:asciidoc/asciidoc.adoc[Asciidoc]
+** xref:asciidoc/kroki.adoc[Kroki]
+** xref:asciidoc/vega.adoc[Vega]
+** xref:asciidoc/c4model.adoc[C4 Model]
 
 
 

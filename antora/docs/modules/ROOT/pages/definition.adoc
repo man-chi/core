@@ -1,5 +1,6 @@
 = Definitions
-:navtitle:definitions
+:navtitle: Definitions
+
 
 Based on definitions from IEEE
 https://pascal.computer.org/[SEVOCAB]

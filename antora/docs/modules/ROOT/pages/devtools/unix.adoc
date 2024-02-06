@@ -1,6 +1,6 @@
 = Modern Unix
 :navtitle: modern unix
-:description: most popular unix commands
+:description: common unix commands
 
 {description}
 
