@@ -1,18 +1,18 @@
-= Definitions
-:navtitle: Definitions
+= Definition
+:navtitle: Definition
 
-== Based on definitions from IEEE
-
-https://pascal.computer.org/[SEVOCAB]
-https://zbib.org/[Bibliography Search]
+Based on definitions from IEEE::
+* https://pascal.computer.org/[SEVOCAB]
+* https://zbib.org/[Bibliography Search]
 
 Context::
-* immediate environment in which a function (or set of functions in a diagram) operates
+* immediate environment in which a function (or set of functions) operates
 
-Module::
-* program unit that is discrete and identifiable with respect to compiling, combining with other units, and loading (ISO/IEC 19506)
+Module vs component::
+* module - program unit that is discrete and identifiable with respect to compiling, combining with other units, and loading (ISO/IEC 19506)
 
-Component vs module::
+* Component - specific, named collection of features that can be described by an IDL component definition or a corresponding structure in an interface repository (ISO/IEC 19500)
+
 
 Faults vs failures::
 
@@ -46,6 +46,9 @@ requirement vs need::
 
 quality assurance vs testing::
 
+deployment vs release (=poweron)::
+
+product vs project (=lifespan)::
 
 solution vs implementation::
 
@@ -63,6 +66,4 @@ reward::
 == Convention
 
 Date Format::
-explicitly state the month and day using words rather than just numerals (e.g. "October 31, 2023" or Oct 31, 2023 --less formal).
-commonly put year after month, in english.
-put time after date, so remember "dateYeartime" DayTime Monday, June 22, 2023, 9:30 AM
+explicitly state the month and day using words rather than just numerals (e.g. "October 31, 2023" or Oct 31, 2023 --less formal). commonly put year after month, in english. put time after date, so remember "dateYeartime" DayTime Monday, June 22, 2023, 9:30 AM

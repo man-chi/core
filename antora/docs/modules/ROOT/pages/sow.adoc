@@ -6,39 +6,34 @@ image::architecture.svg[Architecture]
 
 == Scope of Work
 
-description of business::
+Mission::
 close the gaps between business strategy and engineering operation by providing professional advice on the following 4 key areas:
 . establish capability roadmap, talent analysis and financial model
 . design software architecture based on IEEE body of knowledge
 . develop data platform with DataOps, MLOps and DevOps by best practices
 . govern operation with metrics and compliance in ISO standard
 
-
-analysis::
-* evaluate vendors/solution for MR studio, eduction platform
-
-Roadmap::
-* prioritize in-take projects as domains (using value vs feasiblity matrix)
-    . MR Medical Training Platform
+Capability Roadmap::
+* prioritize in-take initiative (using value vs feasibility matrix)
     . FDA for Clinical Recording Device
     . R&D for AI data lake
+    . pre-A scope, technology blueprint
 * create north star distribution based on priority
 ** % on talent & leader training
 ** % on team efficiency improvement
 ** % on domain capability construction
-* create objective alignment: from OKR (metrics) > process operational KPI > business KPI (CSF) / Revenue
+* create objective alignment: from operation metrics to business critical success factor
 * create capability roadmap: foundation capability, domain capability by quarter against with financial EBITDA/cash flow
-* recommend strategy: buy vs build outsource vs build in-house
 
-talent::
-* preform talent Analysis and hiring plan
+budget & talent plan::
+* preform talent analysis and hiring plan
 * establish career path, Job description for each technical role
-
-Design::
-* user journey by layer: UX, Application, Backoffice, Data, Infrastructure
-* establish overall system architecture
+* forecast budget for cloud service, software and capex and opex.
+* forecast funding on buy vs build outsource vs build in-house
 
 Reusable Process & Technology::
+* user journey by layer: UX, Application, Backoffice, Data, Infrastructure
+* establish overall system architecture
 * define Software architecture & operation pipeline
 * define Data architecture & operation pipeline
 * define Machine Learning architecture & operation pipeline
