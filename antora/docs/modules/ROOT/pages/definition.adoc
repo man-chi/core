@@ -1,7 +1,7 @@
 = Definition
 :navtitle: Definition
 
-Definition search::
+Search::
 * https://pascal.computer.org/[SEVOCAB]
 * https://zbib.org/[Bibliography Search]
 
@@ -15,7 +15,7 @@ Component vs Module::
 Faults vs Failures::
 * Faults are the cause, and failures are the effect
 
-analysis vs Analytics::
+Analysis vs Analytics::
 * analysis - examine the historical data, understand present and assess the gap or differences between them, includes listing and prioritizing the specific actions or tasks required to close the gap.
 * analytics - try to predict future for decision making
 
@@ -30,7 +30,7 @@ Accountability vs Responsibility::
 * accountability is outcome-oriented
 * Responsibility is task-oriented
 
-Competency vs Skill vs disposition (based on ACM)::
+Competency vs Skill vs Disposition (based on ACM)::
 * competency - know-what (knowledge area)
 * skill - know-how
 * disposition - know-why
@@ -58,7 +58,7 @@ Release vs Deployment::
 Product vs Project::
 * product has lifespan while project is task driven.
 
-solution vs implementation::
+Solution vs implementation::
 * A solution is a comprehensive answer or resolution to a problem or challenge. It involves identifying the best approach, strategy, or set of actions to achieve a desired outcome.
 * Implementation is the process of executing action outlined in the solution. It involves the practical application of ideas to achieve the desired results.
 

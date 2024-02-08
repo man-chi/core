@@ -1,8 +1,6 @@
 = Scope of Work
 :navtitle: Scope of Work
 
-== Scope of Work
-
 Mission::
 close the gaps between business strategy and engineering operation by providing professional advice on the following 4 key areas:
 . establish capability roadmap, talent analysis and financial model
@@ -11,14 +9,14 @@ close the gaps between business strategy and engineering operation by providing 
 . govern operation with metrics and compliance in ISO standard
 
 Capability Roadmap::
-* prioritize in-take initiative (using value vs feasibility matrix)
-    . FDA for Clinical Recording Device
-    . R&D for AI data lake
-    . pre-A scope, technology blueprint
-* create north star distribution based on priority
-** % on talent & leader training
-** % on team efficiency improvement
-** % on domain capability construction
+* Prioritization for in-take initiative using value vs feasibility matrix
+.. funding scope, technology blueprint
+.. compliance process
+.. R&D for AI data lake
+* create north star distribution for business valuation
+.. % on talent & leader training
+.. % on team efficiency improvement
+.. % on domain capability construction
 * create objective alignment: from operation metrics to business critical success factor
 * create capability roadmap: foundation capability, domain capability by quarter against with financial EBITDA/cash flow
 
@@ -57,10 +55,10 @@ POD agile transformation::
 - customer experience designs
 
 tech operations::
-- decoupled, automation, evolving, real-time data processing cloud native, finops
+- decoupled, automation, evolving, real-time data processing cloud native, FinOps
 - engineering practices: devops, maintainability, CI/CD, tooling
-- control, auditability, scalable, available, monitoring, observablity
-- devsecops
+- control, auditability, scalable, available, monitoring, observability
+- DevSecOps
 
 data management::
 - data product, data pipeline, architecture., data capability,
@@ -73,9 +71,7 @@ Growth Metrics::
 - risk, policy, trust
 - culture
 
-
-
-=== Selected McKinsey Articles
+Selected McKinsey Articles::
 . https://sloanreview.mit.edu/article/its-time-to-reset-the-it-talent-model/[It’s Time to Reset the IT Talent Model]
 . https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/driving-business-impact-through-customer-centricity-and-digital-agility[Driving business impact through customer centricity and digital agility]
 . https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design[The business value of design]
