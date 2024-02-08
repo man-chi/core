@@ -8,6 +8,13 @@ close the gaps between business strategy and engineering operation by providing 
 . develop data platform with DataOps, MLOps and DevOps by best practices
 . govern operation with metrics and compliance in ISO standard
 
+deck deliverable::
+. turn key domain priority (build vs buy)
+. capability roadmap with financial model
+. Goal, KPI & OKR alignment
+. hiring plan with talent role
+. POD working model
+
 Capability Roadmap::
 * Prioritization for in-take initiative using value vs feasibility matrix
 .. funding scope, technology blueprint
