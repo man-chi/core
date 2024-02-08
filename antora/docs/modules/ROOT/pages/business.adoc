@@ -1,37 +1,24 @@
-= Business Model
-:navtitle: Business Model
+= Business
+:navtitle: Business
 
-.Architecture
+.System Architecture
 image::architecture.svg[Architecture]
 
 brief description of what your business does?::
+close the gaps between business strategy and engineering operation.
 
-== what type of services do you offer within your technology consulting business?
-
-.provide technology consulting on the following 4 key pillars::
-. analyze capability roadmap
-. design software engineering practices
-. establish foundation data platform with DataOps & MLOps
-. govern cloud-native infrastructures
-
-== main business goals, do you have any other specific objectives you'd like to achieve with your website?
-closing the gaps between business strategy and pragmatic engineering practices
+.provide technology consulting on the following 4 key service offering::
+. establish capability roadmap, talent analysis and financial model
+. design software architecture based on IEEE body of knowledge
+. develop data platform with DataOps, MLOps and DevOps
+. govern operation with metrics and value stream
 
 == Problem Statement
-
-huge disription in past 5 years::
-- Asia political movement 2019
-- Covid pandemic 2020
-- china - us trade war 2021
-- ukrian - russian war 2022
-- LLM release by chatgpt 2023
+huge disruption happened in past 5 years, due to pandemic, trade war, military war and AI adaption.
 
 Statistics::
-The software industry is still in crisis.
+The software industry has been in crisis since 1970s
 According to the Standish Group's CHAOS Report in 2018, only 29% of software projects were deemed successful, while 52% were considered over budget or delayed, and 19% were outright failures (abandoned or not used).<<2>>
-
-Do you have any specific ideas or features you'd like to include on your website to help achieve this objective?
-
 
 Root Cause Analysis::
 . Intent: setup for failure: unclear or even confused on external force of stakeholders, outcome, strategy and business model, leading incorrect goal setting and KPI.
@@ -137,27 +124,8 @@ Team members should openly and honestly communicate problems or challenges to th
 Candidate Criteria::
 . technical competency
 . culture fit
-. problem solving
 . conflict consensus
 
-
-Company Branding::
-link::https://paperheartdesign.com/blog/color-palette-terrific-teal[color theme]
-
-
-selected McKinsey Articles::
-https://sloanreview.mit.edu/article/its-time-to-reset-the-it-talent-model/[It’s Time to Reset the IT Talent Model]
-https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/driving-business-impact-through-customer-centricity-and-digital-agility[Driving business impact through customer centricity and digital agility]
-https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design[The business value of design]
-
-https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/cloud-foundations-ten-commandments-for-faster-and-more-profitable-cloud-migrations[Cloud foundations: Ten commandments for faster—and more profitable—cloud migrations]
-https://www.mckinsey.com/capabilities/quantumblack/our-insights/scaling-ai-like-a-tech-native-the-ceos-role[Scaling AI like a tech native: The CEO’s role]
-https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/how-to-build-a-data-architecture-to-drive-innovation-today-and-tomorrow[How to build a data architecture to drive innovation—today and tomorrow]
-https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/why-digital-strategies-fail[Why digital strategies fail]
-https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-transformation-on-the-ceo-agenda[Digital transformation on the CEO agenda]
-https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/successful-transformations[Losing from day one: Why even successful transformations fall short]
-https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-digital-edge-rethinking-strategy-for-the-postpandemic-era[The new digital edge: Rethinking strategy for the postpandemic era]
-https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/mining-for-tech-talent-gold-seven-ways-to-find-and-keep-diverse-talent[Mining for tech-talent gold: Seven ways to find and keep diverse talent]
-
-
+Team Branding::
+https://paperheartdesign.com/blog/color-palette-terrific-teal[color theme]
 
