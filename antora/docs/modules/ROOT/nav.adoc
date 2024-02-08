@@ -1,5 +1,6 @@
 * xref:motivation.adoc[Motivation]
 * xref:sow.adoc[Scope of Work]
+* xref:architecture.adoc[Architecture]
 * xref:definition.adoc[Definition]
 * xref::[Dev Tools]
 ** xref:devtool/git.adoc[Git]

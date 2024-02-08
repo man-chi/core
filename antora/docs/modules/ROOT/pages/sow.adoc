@@ -1,9 +1,6 @@
 = Scope of Work
 :navtitle: Scope of Work
 
-.System Architecture
-image::architecture.svg[Architecture]
-
 == Scope of Work
 
 Mission::
