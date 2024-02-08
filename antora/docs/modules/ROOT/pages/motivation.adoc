@@ -1,17 +1,5 @@
-= Business
-:navtitle: Business
-
-.System Architecture
-image::architecture.svg[Architecture]
-
-brief description of what your business does?::
-close the gaps between business strategy and engineering operation.
-
-.provide technology consulting on the following 4 key service offering::
-. establish capability roadmap, talent analysis and financial model
-. design software architecture based on IEEE body of knowledge
-. develop data platform with DataOps, MLOps and DevOps
-. govern operation with metrics and value stream
+= Motivation
+:navtitle: Motivation
 
 == Problem Statement
 huge disruption happened in past 5 years, due to pandemic, trade war, military war and AI adaption.
@@ -126,6 +114,6 @@ Candidate Criteria::
 . culture fit
 . conflict consensus
 
-Team Branding::
+Theme Branding::
 https://paperheartdesign.com/blog/color-palette-terrific-teal[color theme]
 

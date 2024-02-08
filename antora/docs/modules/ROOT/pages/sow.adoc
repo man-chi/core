@@ -1,9 +1,18 @@
 = Scope of Work
 :navtitle: Scope of Work
 
-Scope of Work by Domain in Priority::
+.System Architecture
+image::architecture.svg[Architecture]
 
 == Scope of Work
+
+description of business::
+close the gaps between business strategy and engineering operation by providing professional advice on the following 4 key areas:
+. establish capability roadmap, talent analysis and financial model
+. design software architecture based on IEEE body of knowledge
+. develop data platform with DataOps, MLOps and DevOps by best practices
+. govern operation with metrics and compliance in ISO standard
+
 
 analysis::
 * evaluate vendors/solution for MR studio, eduction platform
@@ -67,7 +76,7 @@ data management::
 
 Growth Metrics::
 - user adaption
-- replication, reusability
+- replication, modularity
 - KPI
 - risk, policy, trust
 - culture
