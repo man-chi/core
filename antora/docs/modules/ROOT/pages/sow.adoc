@@ -9,11 +9,12 @@ close the gaps between business strategy and engineering operation by providing 
 . govern operation with metrics and compliance in ISO standard
 
 deck deliverable::
-. turn key domain priority (build vs buy)
-. capability roadmap with financial model
-. Goal, KPI & OKR alignment
-. hiring plan with talent role
-. POD working model
+. capability roadmap with financial model, domain LOB, valuation, priority (build vs buy)
+. budget forecast for hiring by talent role, cloud, software, opex, capex.
+. alignment plan for Goal, KPI & OKR, compensation by skill, reward by team
+. working model for POD lifecycle
+. system architecture & software design
+. IT4IT: devops, devsecops, dataops, MLops, finops
 
 Capability Roadmap::
 * Prioritization for in-take initiative using value vs feasibility matrix
