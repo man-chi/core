@@ -76,5 +76,8 @@ Incentive vs Reward vs Recognition::
 * Reward: A reward is something given or received in return for good behavior, effort, or achievement. It is a positive consequence intended to reinforce positive actions.
 * Recognition: Recognition involves acknowledging and appreciating an individual's contributions, efforts, or achievements. It is a form of positive feedback that highlights the value of a person's work.
 
+Plato vs Aristotle::
+* One key difference between Plato and Aristotle lies in their views on forms or ideas. Plato believed in a world of perfect, eternal forms, separate from the physical realm, while Aristotle emphasized the importance of studying the material world to understand reality.
+
 Date Format::
 explicitly state the month and day using words rather than just numerals (e.g. "October 31, 2023" or Oct 31, 2023 --less formal). commonly put year after month, in english. put time after date, so remember "dateYeartime" DayTime Monday, June 22, 2023, 9:30 AM
