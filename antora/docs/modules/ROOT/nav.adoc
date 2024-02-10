@@ -10,6 +10,6 @@
 ** xref:asciidoc/kroki.adoc[Kroki]
 ** xref:asciidoc/vega.adoc[Vega]
 ** xref:asciidoc/c4model.adoc[C4 Model]
-
+* xref::contributors.adoc[Credit]
 
 

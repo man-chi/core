@@ -5,4 +5,4 @@
 image::architecture.svg[Architecture]
 
 .Migration Pattern
-image::strangler.svg[Stragnler Pattern]
+image::migration.svg[Migration Pattern]
