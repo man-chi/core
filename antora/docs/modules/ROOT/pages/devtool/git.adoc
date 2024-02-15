@@ -65,3 +65,7 @@ build
 /antora/node_modules/
 /antora/.cache/
 ----
+
+== module setup
+* checkout antora template from https://github.com/man-chi/example-antora-basic[repo]
+* in /core directory , create subdir for module e.g. `kt-module-basic`

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Kotlin-Best-Practices" target="17" />
+      <module name="Kotlin-Best-Practices.main" target="17" />
+      <module name="Kotlin-Best-Practices.test" target="17" />
+      <module name="project-kt-app.app" target="17" />
+      <module name="project-kt-app.app.main" target="17" />
+      <module name="project-kt-app.app.test" target="17" />
+      <module name="project-kt-app.buildSrc" target="17" />
+      <module name="project-kt-app.buildSrc.main" target="17" />
+      <module name="project-kt-app.buildSrc.test" target="17" />
+      <module name="project-kt-app.list" target="17" />
+      <module name="project-kt-app.list.main" target="17" />
+      <module name="project-kt-app.list.test" target="17" />
+      <module name="project-kt-app.utilities" target="17" />
+      <module name="project-kt-app.utilities.main" target="17" />
+      <module name="project-kt-app.utilities.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,3 +1,13 @@
 docs/_build
 .python-version
 /.idea/git_toolbox_prj.xml
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.gradle
+.gradle/
+.idea/
+build/
+out/
