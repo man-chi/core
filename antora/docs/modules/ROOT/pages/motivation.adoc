@@ -114,6 +114,5 @@ Candidate Criteria::
 . culture fit
 . conflict consensus
 
-Theme Branding::
-https://paperheartdesign.com/blog/color-palette-terrific-teal[color theme]
-
+open company example::
+https://handbook.sourcegraph.com/[source graph handbook]

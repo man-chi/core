@@ -2,19 +2,19 @@
 :navtitle: Scope of Work
 
 Mission::
-close the gaps between business strategy and engineering operation by providing professional advice on the following 4 key areas:
+we are executive consulting agency help close the gaps between business strategy and engineering operation by providing professional advice on the following 4 key areas:
 . establish capability roadmap, talent analysis and financial model
 . design software architecture based on IEEE body of knowledge
 . develop data platform with DataOps, MLOps and DevOps by best practices
 . govern operation with metrics and compliance in ISO standard
 
-deck deliverable::
+expertise on:
 . capability roadmap with financial model, domain LOB, valuation, priority (build vs buy)
 . budget forecast for hiring by talent role, cloud, software, opex, capex.
 . alignment plan for Goal, KPI & OKR, compensation by skill, reward by team
 . working model for POD lifecycle
 . system architecture & software design
-. IT4IT: devops, devsecops, dataops, MLops, finops
+. devops, devsecops, dataops, MLops, finops
 
 Capability Roadmap::
 * Prioritization for in-take initiative using value vs feasibility matrix
