@@ -36,8 +36,13 @@ fun multiply(a: Int, b: Int): Int {
     return result
 }
 
-
-//function to divide two numbers
+/**
+ * Function to divide two numbers
+ * @param a the numerator
+ * @param b the denominator
+ * @return the result of the division
+ * @throws IllegalArgumentException if b is zero
+ */
 fun divide(a: Int, b: Int): Int {
     require(b != 0) { "Cannot divide by zero" }
     val result = a / b
