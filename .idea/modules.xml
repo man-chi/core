@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/example-antora-basic.iml" filepath="$PROJECT_DIR$/.idea/example-antora-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/py-module-basic/py-module-basic.iml" filepath="$PROJECT_DIR$/py-module-basic/py-module-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/py-module/py-module-pip/py-module-pip.iml" filepath="$PROJECT_DIR$/py-module/py-module-pip/py-module-pip.iml" />
     </modules>
   </component>
 </project>

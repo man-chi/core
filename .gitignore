@@ -1,6 +1,7 @@
 docs/_build
 .python-version
 /.idea/git_toolbox_prj.xml
+
 # Kotlin
 *.class
 *.jar
@@ -11,3 +12,34 @@ docs/_build
 .idea/
 build/
 out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyw
+*.so
+*.egg-info/
+dist/
+build/
+
+# Ignore compiled files
+*.class
+*.pyc
+*.o
+*.dll
+
+# Ignore dependency directories
+node_modules/
+.venv/
+.idea/
+
+# Ignore operating system or editor-specific files
+.DS_Store
+.vscode/
+Thumbs.db
+
+# Ignore environment configuration files
+.env
+.env.local

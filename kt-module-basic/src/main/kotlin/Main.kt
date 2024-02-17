@@ -5,6 +5,7 @@ fun main() {
     add(1, 3)
     sub(2, 3)
     multiply(2, 3)
+    squareroot(2)
 }
 
 fun add(a: Int, b: Int) {
@@ -48,4 +49,24 @@ fun divide(a: Int, b: Int): Int {
     val result = a / b
     println("Dividing $a and $b to get $result")
     return result
+}
+
+fun squareroot(a: Int): Int {
+    val result = Math.sqrt(a.toDouble())
+    println("Square root of $a is $result")
+    return result.toInt()
+}
+
+fun  calculateSquareRootBynewtonsMethod(a: Int): Int {
+    val result = Math.sqrt(a.toDouble())
+    println("Square root of $a is $result")
+    return result.toInt()
+}
+
+
+fun calculatepowerof(a: Int, b: Int): Int {
+    val result = Math.pow(a.toDouble(), b.toDouble())
+    println("Power of $a and $b is $result")
+    return result.toInt()
+
 }
